@@ -1,0 +1,2 @@
+# scrapy_process
+利用scrapy组件方式运行爬虫，multiprocessing执行一个爬虫
